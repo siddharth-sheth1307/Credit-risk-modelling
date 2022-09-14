@@ -1,0 +1,2 @@
+# Credit risk modelling
+ Credit score cards are a common risk control method in the financial industry. It makes use of personal information and data submitted by credit card applicants to predict the probability of future defaults and credit card borrowings. Using this the bank is able to decide whether to issue a credit card to the applicant. The goal is to classify whether the applicant is a “good” or “bad” client using Logistic regression and build scorecards to assist in this matter
